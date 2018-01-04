@@ -9,11 +9,23 @@ The purpose of this assignment is to create a shopping list application using iP
 ## Core Functionalities
 You application should have to have following core functionalities. See the Merit section for the additional functionalities.
 
-Add Items to the shopping List – User will be able to add new shopping items to the list
-Display Items – User will be able to view the shopping list
-Remove Items – User will be able to remove items from the list
-Display a Summary – User will be able to display a summary, which includes approximate cost in dollars.
-Save Favourite Store Locations – User will be able to save the favourite store locations to a database and display the locations in a table view or picker view
+•	Add Items to the shopping List – User will be able to add new shopping items to the list
+
+![alt text](https://github.com/trientran/Shopping-List-iOS/blob/master/Screenshots/image001.png "")
+
+•	Display Items – User will be able to view the shopping list
+
+![alt text](https://github.com/trientran/Shopping-List-iOS/blob/master/Screenshots/image005.png "")
+
+•	Remove Items – User will be able to remove items from the list
+•	Display a Summary – User will be able to display a summary, which includes approximate cost in dollars.
+•	Save Favourite Store Locations – User will be able to save the favourite store locations to a database and display the locations in a table view or picker view
+
+![alt text](https://github.com/trientran/Shopping-List-iOS/blob/master/Screenshots/image009.png "")
+
+•	Sent an Email – This allows a user to send the shopping list to a selected email. You can either add a separate tab to the app or modify the order summary (total) tab to incorporate this functionality.
+
+•	Delete Update Favourite Store – This functionality allows a user to delete or update favourite store details. You can modify the favourite store tab (Address) to incorporate this functionality.
 
 ## Developing the Shopping List
 
@@ -41,11 +53,3 @@ Note: To start with shopping list should be empty (no data). You are also encour
  			
 •	   Add another tab (Favourites) to your application to add a favourite store location (Address) to a list. User can add the location via a TextFields to a PickerView or TableView. You are required to add a separate class and a database table to store this information (Address details). Use the user interface below as a guide.
 
-		 
-
-## Merits
-
-•	Sent an Email – This allows a user to send the shopping list to a selected email. You can either add a separate tab to the app or modify the order summary (total) tab to incorporate this functionality.
-1 Merit
-•	Delete Update Favourite Store – This functionality allows a user to delete or update favourite store details. You can modify the favourite store tab (Address) to incorporate this functionality.
-1 Merit
